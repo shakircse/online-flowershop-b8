@@ -109,3 +109,15 @@ font-size: 50px;
     height: 70%;
 }
 /* Feature Ends */
+.hot-deal{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 60px;
+}
+.discount{
+    color:#E55473;
+    font-weight: 800;
+}

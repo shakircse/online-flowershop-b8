@@ -1,3 +1,40 @@
 body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+}
+/* banner starts */
+
+.full-width-content{
+    background: rgba(229, 84, 115, 0.10);
     
+}
+.banner{
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin: 0 240px;
+    
+}
+.banner-title{  
+text-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+font-size: 50px;
+
+}
+.banner-title h4{
+    line-height: 0px;
+}
+.banner-title p{
+    font-size: 18px;
+}
+.banner img{ 
+   
+}
+.btn-primary{
+    border-radius: 8px;
+    background: #E55473;
+    border: 0;
+    padding: 12px;
+    color: white;
+    margin-top: 10px;
 }

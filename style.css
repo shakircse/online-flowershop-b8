@@ -55,7 +55,7 @@ font-size: 50px;
 /* feature starts */
 .feature-pic{
     display: flex; 
-     gap: 10px; 
+     gap: 30px; 
      margin-bottom: 10px;
 }
 .pic-details{
@@ -121,3 +121,37 @@ font-size: 50px;
     color:#E55473;
     font-weight: 800;
 }
+.social-media-flower{
+    display: flex;
+    gap: 10px;
+    margin-bottom: 60px;
+}
+.social-media-flower img{
+    width: 240px;
+}
+
+/* News Portal Starts */
+.news-portal{
+   background-image: url("./Rectangle\ 9.png");
+   height: 300px;
+   width: 990px;
+   background-repeat: no-repeat;
+   position: relative;
+   margin-bottom: 60px;
+}
+.news-content{
+    position: absolute;
+    margin-top: 100px;
+    left:400px
+}
+.news-content p,h1{
+    font-size: 12px;
+    line-height: 4px;
+}
+.news-content >input{
+    padding: 12px 20px;
+    border: 0;
+    margin-right: 5px;
+}
+
+/* news Portal Ends */

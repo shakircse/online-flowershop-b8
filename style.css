@@ -109,6 +109,7 @@ font-size: 50px;
     height: 70%;
 }
 /* Feature Ends */
+/* hot-deal starts */
 .hot-deal{
     display: flex;
     justify-content: space-around;
@@ -121,6 +122,7 @@ font-size: 50px;
     color:#E55473;
     font-weight: 800;
 }
+/* hot-deal ends */
 .social-media-flower{
     display: flex;
     gap: 10px;
@@ -155,6 +157,22 @@ font-size: 50px;
 }
 
 /* news Portal Ends */
+.upcoming-products{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-right: 200px;
+    margin-left: 200px;
+    margin-bottom: 60px;
+}
+.bonus-gift{
+    color:#E55473;
+    font-weight: 800;
+}
+.price{
+    font-weight: 800;
+    color:green
+}
 /* Footer starts */
 .footer-background{
     height: 350px;
